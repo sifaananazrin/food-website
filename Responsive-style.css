@@ -1,0 +1,69 @@
+@media(max-width:1199px){
+
+}
+@media(max-width:991px){
+h2{
+font-size:30px;
+line-height: 40px;
+}
+h3{
+    font-size: 20px;
+}
+.header-wrapper .navbar-brand img{
+    max-width: 80px;
+}
+
+.-header-scrolled{
+    height: auto;
+}
+.header-wrapper .menu-navbar-nav{
+    text-align:center;
+    background-color: var(--bg-white);
+    padding-bottom:15px;
+}
+/* 
+about */
+.about-wrapper{
+    padding-bottom:unset;
+}
+.about-wrapper .card{
+    z-index:10;
+    right:unset;
+    top:unset;
+}
+}
+/* menu */
+.menu_wrapper .row{
+    padding-top:70px;
+    }
+    .menu_wrapper .card h3 span{
+    width:50px;
+    height:50px;
+    line-height: 50px;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px){
+
+}
